@@ -1,7 +1,18 @@
+![reversal](https://github.com/PJ-Matrisotto/PJ-Matrisotto/assets/113914529/f37d0b5a-d276-42c2-bdc3-bbfa72e24035)
+
+
 <h1 align="center">Hi 👋, I'm PJ Matrisotto</h1>
 <h3 align="center">A passionate frontend developer from Cape Girardeau MO</h3>
+<h1 align="center">About Me</h1>
+I am a student at the Cape giriardeau high school and looking forward to better myself within this carrer path!
+In pursuit of my goal, I am receiving further education at the Cape Girardeau Career Technology Center. I am passionate in the field of computer software and hardware because I greatly enjoy the work in these fields. My euducational end  goal? get at least a Batchlores degree in computer science and continue to learn new languages at I progress throughout life.
+As of right now, I have some experiance in Information Technology and Programming as my father has taught me some of his skills<br/>
+What I beleave: Technological development is an important part of the world as it stands right now, as it will help move humanity forward in a positive manner.
 
-- ⚡ Fun fact **I do a martial arts called Hapkido; which is from South Korea and is a combination of both Tai Quan Doe & Judo teachings**
+
+
+
+- ⚡ Fun fact **I do a martial arts called Hapkido; which is from South Korea and is a combination of both Taekwondo & Judo teachings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">pjmatrisotto06@gmail.com</p>
